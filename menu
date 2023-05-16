@@ -2,49 +2,12 @@
 
 <channels>
 
-
-<channel>
-<name>[COLOR goldenrod][B]DESENHOS[/B][/COLOR]</name>
-<thumbnail>http://</thumbnail>
-<externallink>https://</externallink>
-<fanart></fanart>
-</channel>
-
 <channel>
 <name>[COLOR goldenrod][B]FILMES[/B][/COLOR]</name>
 <thumbnail>https://</thumbnail>
 <externallink>https://rsilva46.000webhostapp.com/torrentfilmes/</externallink>
 <fanart></fanart>
 </channel>
-
-<channel>
-<name>[COLOR wheat][B]SÉRIES[/B][/COLOR]</name>
-<thumbnail>https://</thumbnail>
-<externallink>https://rsilva46.000webhostapp.com/torrentseries/</externallink>
-<fanart></fanart>
-</channel>
-
-<channel>
-<name>[COLOR wheat][B]COLETÂNEAS[/B][/COLOR]</name>
-<thumbnail>https://</thumbnail>
-<externallink>https://rsilva46.000webhostapp.com/torrenttrilogias/</externallink>
-<fanart></fanart>
-</channel>
-
-<channel>
-<name>[COLOR wheat][B]TV[/B][/COLOR]</name>
-<thumbnail>https://</thumbnail>
-<externallink>https://</externallink>
-<fanart></fanart>
-</channel>
-
-<channel>
-<name>[COLOR wheat][B]TESTE[/B][/COLOR]</name>
-<thumbnail>https://</thumbnail>
-<externallink>https://drive.google.com/uc?id=1Bvh6RzYKOW2M5loZzTxhaFlH9XhWGPTE&export=download</externallink>
-<fanart></fanart>
-</channel>
-
 
 
 </channels>
